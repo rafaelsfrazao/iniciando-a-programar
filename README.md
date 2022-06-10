@@ -1,9 +1,9 @@
-# iniciando-programa
+# iniciando-programação 🖥️
 
-> Status do projeto : Em desenvolvimento 
+> Status do projeto : 👷‍♂️ em construção 🚧 
 
 ```
-Erros serão extintos conforme evoluo.
+Erros serão extintos conforme evoluo. 
 ```
 
 
