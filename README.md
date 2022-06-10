@@ -1,2 +1,10 @@
-# iniciando-programa-o
-Aprendendo a utilizar ferramentas de dev.
+# iniciando-programa
+
+> Status do projeto : Em desenvolvimento 
+
+```
+Erros serão extintos conforme evoluo.
+```
+
+
+
